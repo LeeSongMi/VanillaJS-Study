@@ -20,3 +20,9 @@
 2.Practice
 - 2.1 Your first JS Function
 - 2.1.1 More Function Fun
+- 2.2 JS DOM Function
+- 2.3 Modifying the DOM with JS
+- 2.4 Events and Event Handlers
+- 2.5 if, else, and, or
+- 2.6 DOM - IF else - Function Practice
+- 2.7 DOM - IF else - Function Practice Part Two
