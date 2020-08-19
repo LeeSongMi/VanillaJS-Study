@@ -4,7 +4,8 @@ title.style.color = "white";
 document.title = "I own you now";*/
 const CLICKED_CLASS = "clicked";
 
-function handleClick(){
+function handleClick(e){
+    console.log(e);
     title.classList.toggle(CLICKED_CLASS);
 }
 
