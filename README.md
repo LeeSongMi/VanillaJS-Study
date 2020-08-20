@@ -26,3 +26,16 @@
 - 2.5 if, else, and, or
 - 2.6 DOM - IF else - Function Practice
 - 2.7 DOM - IF else - Function Practice Part Two
+
+3.Make Your First JS App
+- 3.1 Making a JS Clock Part One
+- 3.2 Making a JS Clock Part Two
+- 3.3 Saving the User Name Part One
+- 3.4 Saving the User Name Part Two
+- 3.5 Making a To Do List Part One
+- 3.6 Making a To Do List Part Two
+- 3.7 Making a To Do List Part Three
+- 3.8 Image Background
+- 3.9 Getting The Weather Part One(Geolocation)
+- 3.10 Getting The Weather Part Two(API)
+- 3.11 Conclusions
